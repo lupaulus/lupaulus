@@ -15,7 +15,7 @@ With a strong background in software development, cloud computing, and mobile ap
  | Monitoring IIoT | Prometheus, Grafana, InfluxDB, Telegraf, TimescaleDB              |
 
 ## 📚 Teaching
-I teach various courses related to mobile phone technology and DevOps practices at [Your University]. My courses include:
+I teach various courses related to mobile phone technology and DevOps practices at University of Strasbourg. My courses include:
  | Course | Description |
  |--------|-------------|
  | Introduction to Mobile Development | Basics of mobile app development for Android and iOS |
